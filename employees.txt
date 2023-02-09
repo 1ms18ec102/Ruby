@@ -1,0 +1,6 @@
+savan , ceo
+sadd ,sales
+mike ,law
+harvey ,law
+Michael ,Manager
+awanti,acc
